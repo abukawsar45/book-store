@@ -5,7 +5,7 @@ const Footer = () => {
         © 2023 nextPage Inc. All rights reserved.
       </div>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
